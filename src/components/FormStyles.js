@@ -11,7 +11,7 @@ export const Wrapper = styled.div`
 
   h2 {
     font-size: 26px;
-    font-family: "Titillium Web", sans-serif;
+    font-family: "Titillium Web";
     margin-top: 60px;
   }
 
