@@ -1,3 +1,6 @@
+Originally a schoolproject including react, redux and router that I've redone and improved a little bit. 
+Also Using styled-components instead of "normal css" for practise. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
